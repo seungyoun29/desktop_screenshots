@@ -4,9 +4,15 @@ I am sure once we collect images, we will find some patterns and the information
 
 Here is how. 
 1. Screenshot your personal computer's desktop. If you have more than 1, grab all.
-2. Please name the file with the city you live in (NewYork, Sydney, etc), age, gender(F/M/or if you don't want, you can skip it) and what your profession is(financeConsultant, engineer, etc).
-   ex: NewYork_28_F_student_1.jpg, Qutar_39_M_architect.jpg
+2. Please name the file with 
+      Gender: F/M or if you don't want, you can skip it 
+      Age
+      Profession: storeManager, engineer, etc
+      City you live in: NewYork, Sydney, Prague, etc
+      Number of the photos you are uploading
+      ex: F_24_student_NewYork_1/2.png, M_39_architect_Dubai_1/1.png
 3. Upload all your screenshots.
-4. Once we start to see some patterns, we can start analysing!
 
-Share now, and get the word out!
+Once we start to see some patterns, we can start analysing!
+
+Share your photos now, and get the word out!
